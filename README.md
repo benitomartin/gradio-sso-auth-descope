@@ -11,8 +11,6 @@ This repository contains a Gradio App that contains several authentication metho
 - OAuth Social Login
 - Custom Claims
 
-It has been created together with the following [blog](https://www.descope.com/blog). You can follow he blog to create a Descope/Okta account and use the different authentication methods within the app.
-
 # Set up your environment
 
 Clone the repository and activate the environment from the project folder:
@@ -31,3 +29,5 @@ There are 4 Gradio apps, each one using a different authentication method:
 - `sso_gradio_app.py`: app using SSO and Okta for login authentication
 
 - `social_gradio_app.py`: app using Google for login authentication
+
+It has been created together with the following [blog](https://www.descope.com/blog). You can follow he blog to create a Descope/Okta account and use the different authentication methods within the app.
