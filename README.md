@@ -30,4 +30,6 @@ There are 4 Gradio apps, each one using a different authentication method:
 
 - `social_gradio_app.py`: app using Google for login authentication
 
-It has been created together with the following [blog](https://www.descope.com/blog). You can follow he blog to create a Descope/Okta account and use the different authentication methods within the app.
+- `descope_gradio_app.py`: app using all auhentication methods
+
+It has been created together with the following [blog](https://medium.com/@benitomartin/add-authentication-and-sso-to-your-gradio-app-19096dfdb297). You can follow he blog to create a Descope/Okta account and use the different authentication methods within the app.
